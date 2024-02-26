@@ -1,0 +1,11 @@
+*{
+    width: 700px !important;
+    margin: auto;
+  background-color: beige;
+}
+.bb:hover{
+    outline-color: red;
+}
+.bb:focus{
+    outline-color: red;
+}
